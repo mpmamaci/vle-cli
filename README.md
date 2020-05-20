@@ -1,2 +1,2 @@
 # vle-cli
-Vigene like Encryption CLI
+Vigenere like Encryption CLI
