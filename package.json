@@ -2,12 +2,12 @@
   "name": "vle",
   "version": "1.0.0",
   "description": "Vigene like Encryption CLI",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "vle": "./index.js"
+    "vle": "./src/index.js"
   },
   "author": "mpmamaci",
   "license": "MIT",
